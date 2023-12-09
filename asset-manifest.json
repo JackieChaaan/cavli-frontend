@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cavli-frontend/static/css/main.f1b1aae4.css",
+    "main.js": "/cavli-frontend/static/js/main.cd2859f9.js",
+    "index.html": "/cavli-frontend/index.html",
+    "main.f1b1aae4.css.map": "/cavli-frontend/static/css/main.f1b1aae4.css.map",
+    "main.cd2859f9.js.map": "/cavli-frontend/static/js/main.cd2859f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b1aae4.css",
+    "static/js/main.cd2859f9.js"
+  ]
+}
